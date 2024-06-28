@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ishandhar3404
 - 👀 I’m interested in learning more about data structures and algorithms.
-- 🌱 I’m currently learning angular and scrum.
-- 💞️ I’m looking to collaborate on projects involved with angular.
+- 🌱 I’m currently C#.
 - 📫 How to reach me: ishandhar6@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love to go to the gym.
